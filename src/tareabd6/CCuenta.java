@@ -13,6 +13,7 @@ public class CCuenta {
 
 
     // Propiedades de la Clase Cuenta
+    int suma;
     private String nombre;
     private String cuenta;
     private double saldo;
